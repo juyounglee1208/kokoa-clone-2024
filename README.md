@@ -1,2 +1,2 @@
 #kokoa clone 2024 update
-내용!
+HTML & CSS are so much fun!
